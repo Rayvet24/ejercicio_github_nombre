@@ -2,3 +2,4 @@ Buen Día viajero
 Como te va el día de hoy?
 Estas disfrutando del pueblo?
 [ "dialogoNPC-SI" , "dialogoNPC-NO" ]
+
